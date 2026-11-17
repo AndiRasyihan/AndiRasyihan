@@ -32,7 +32,7 @@ object AndiRasyihan {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,php,html,css,threejs,firebase,androidstudio,git,github,vscode&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,nodejs,php,html,css,threejs,electron,firebase,androidstudio,git,github&perline=7&theme=dark" />
   </a>
 </p>
 
@@ -69,7 +69,15 @@ object AndiRasyihan {
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h4>🏝️ <a href="https://github.com/AndiRasyihan/RAAssistant">RA Assistant</a></h4>
+      <i>Dynamic island</i> untuk Windows 11 dengan maskot <b>Rara</b>: ringan, data lokal, plus panel agen AI Copilot/VS Code.<br/><br/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+      <a href="https://github.com/AndiRasyihan/RAAssistant/releases"><img src="https://img.shields.io/badge/⬇_Download-00D4FF?style=flat-square" /></a>
+    </td>
+    <td width="50%" valign="top">
       <h4>🏫 <a href="https://github.com/AndiRasyihan/madrasahconnect">MadrasahConnect</a></h4>
       Platform web ekosistem madrasah.<br/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -87,5 +95,27 @@ object AndiRasyihan {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndiRasyihan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7F52FF&point=ffffff&area=true" width="100%" alt="Contribution Graph" />
 </p>
+
+### 🎮 Arcade Zone
+
+<p align="center"><sub>Kontribusiku tahun ini, dimainkan ulang oleh mesin arcade 🕹️ (diperbarui otomatis tiap hari)</sub></p>
+
+<p align="center"><b>👻 Pac-Man</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndiRasyihan/AndiRasyihan/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AndiRasyihan/AndiRasyihan/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<p align="center"><b>🐍 Snake</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndiRasyihan/AndiRasyihan/output/snake-contribution-graph-dark.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/AndiRasyihan/AndiRasyihan/output/snake-contribution-graph.svg" width="100%">
+</picture>
+
+<p align="center"><b>🚀 Galaga</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndiRasyihan/AndiRasyihan/output/galaga-contribution-graph-dark.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/AndiRasyihan/AndiRasyihan/output/galaga-contribution-graph.svg" width="100%">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
